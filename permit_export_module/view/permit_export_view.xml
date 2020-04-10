@@ -4,7 +4,7 @@
 
     <template id="assets_backend" name="permit_export_button_view assets" inherit_id="web.assets_backend">
       <xpath expr="." position="inside">
-        <script type="text/javascript" src="/permit_export_button/static/src/js/permit_export_option.js"></script>
+        <script type="text/javascript" src="/permit_export_module/static/src/js/permit_export_option.js"></script>
       </xpath>
     </template>
 
